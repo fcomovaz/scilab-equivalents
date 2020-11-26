@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Scilab",
+            "type": "shell",
+            // you need to look for the path bin/ of scilab in your computer
+            "command": "cls | cd %cd% | \"D:\\Programs\\scilab-6.1.0\\bin\\Scilex.exe\" -quit -f ${file}",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
