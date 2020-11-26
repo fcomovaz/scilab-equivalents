@@ -6,6 +6,7 @@ This repository will host Matlab functions that do not exist in Scilab, which us
 > All these functions can be tested both in the [Downloadable Desktop Version](https://www.scilab.org/download) and in the [Online Version](https://cloud.scilab.in/) of Scilab.
 
 ### Matrices
-* [Hadamard Matrix](https://github.com/fcomovaz/scilab-equivalents/tree/master/Matrix_Hadamard)
-* [Vandermonde Matrix](https://github.com/fcomovaz/scilab-equivalents/tree/master/Matrix_Vandermonde/)
 * [Circulant Matrix](https://github.com/fcomovaz/scilab-equivalents/tree/master/Matrix_Circulant/)
+* [Hadamard Matrix](https://github.com/fcomovaz/scilab-equivalents/tree/master/Matrix_Hadamard/)
+* [Hilbert Matrix](https://github.com/fcomovaz/scilab-equivalents/tree/master/Matrix_Hilbert/)
+* [Vandermonde Matrix](https://github.com/fcomovaz/scilab-equivalents/tree/master/Matrix_Vandermonde/)
